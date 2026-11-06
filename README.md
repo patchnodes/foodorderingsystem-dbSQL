@@ -1,10 +1,10 @@
 WELCOME! Please read the following instructions on how to run this application.
 
-Intro: This is a Project 3 - Database Integration by Patty Bactad
-Project Description: McDonald's Menu App Prototype
+Intro: This is a Project - Database Integration by Patty Bactad aka @patchnodes
+Project Description: Food Orderning System Prototype
 
 Overview:
-The McDonald's Menu App prototype is a dynamic web application designed to replicate the ordering experience at McDonald's restaurants. Users can seamlessly browse the menu, select items, specify quantities, and modify their orders as needed. This project serves as a practical exploration of integrating a database into a web application, focusing on implementing CRUD (Create, Read, Update, Delete) operations to manage menu items effectively.
+This prototype is a dynamic web application designed to replicate the ordering experience at a fast food chain shops. Users can seamlessly browse the menu, select items, specify quantities, and modify their orders as needed. This project serves as a practical exploration of integrating a database into a web application, focusing on implementing CRUD (Create, Read, Update, Delete) operations to manage menu items effectively.
 
 Key Features:
 

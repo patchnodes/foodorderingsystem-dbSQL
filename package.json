@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-ejs-layouts": "^2.5.1",
+    "node": "^18.20.2",
+    "sqlite3": "^6.0.1"
+  },
+  "name": "project03_dbintegration_bactadpatty",
+  "description": "Instructions on how to set up, run your application, and create the database.",
+  "version": "1.0.0",
+  "main": "server-answer.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "wddm120_node db"
+  },
+  "keywords": [
+    "wddm120",
+    "node.js",
+    "db",
+    "integration"
+  ],
+  "author": "Patty Bactad",
+  "license": "ISC"
+}

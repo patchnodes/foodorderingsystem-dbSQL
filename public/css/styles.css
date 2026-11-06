@@ -1,0 +1,163 @@
+/* Header styles */
+header {
+    color: #f69059; /* White text color for the header */
+    padding: 20px;
+    text-align: center;
+}
+
+.header-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #eee345; /* Blue color for the footer */
+    /* color: #fff; White text color for the footer */
+    padding: 10px;
+    text-align: center;
+}
+
+.icon {
+    width: 2rem;
+}
+
+section {
+    padding-top: 20vh;
+    height: 70vh;
+    margin: 0 0 10rem 0;
+    box-sizing: border-box;
+    min-height: fit-content;
+}
+
+.section-container {
+    display: flex;
+}
+
+/* Add styles for the form and table columns */
+.form-column,
+.table-column {
+    width: 40%;
+    box-sizing: border-box;
+}
+
+.form-column {
+    margin-right: 10px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #eee345; /* Add your desired background color */
+}
+
+.logo {
+    margin-right: 20px; /* Adjust as needed */
+}
+
+.icon {
+    width: 100px; /* Adjust the size of the logo */
+    height: auto;
+}
+
+/* Form container styles */
+.form-container {
+    max-width: 350px; /* Adjust as needed */
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color: #f9f9f9;
+    text-align: center; /* Center text within form container */
+}
+
+/* Form styles */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form label {
+    margin-bottom: 10px;
+}
+
+form input,
+form select {
+    width: 70%;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    width: 70%;
+    padding: 10px;
+    background-color: #d62718;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #b21d14; /* Darker shade of red on hover */
+}
+
+/* Footer container styles */
+.footer-container {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #eee345; /* Blue color for the footer */
+    color: #fff; /* White text color for the footer */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Table styles */
+.table-section {
+    margin-top: 50px; /* Add more margin for separation */
+}
+
+table {
+    width: 140%;
+    border-collapse: collapse;
+    margin-top: 20px; /* Add margin to separate from the form */
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #eee345; /* Header background color */
+    color: #fff; /* Header text color */
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2; /* Alternate row color */
+}
+
+tr:hover {
+    background-color: #ddd; /* Hover color */
+}
+
+/* Button styles */
+button {
+    padding: 10px 20px;
+    background-color: #d62718;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+}
+
+button:hover {
+    background-color: #b21d14; /* Darker shade of red on hover */
+}

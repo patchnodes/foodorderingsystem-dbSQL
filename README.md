@@ -1,6 +1,7 @@
 WELCOME! Please read the following instructions on how to run this application.
 
 Intro: This is a Project - Database Integration by Patty Bactad aka @patchnodes
+
 Project Description: Food Orderning System Prototype
 
 Overview:
